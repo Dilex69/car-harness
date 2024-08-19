@@ -18,6 +18,7 @@
     ["harness"] 	= {["name"] = "harness",        ["label"] = "Car Harness",	 	["weight"] = 1000, 		["type"] = "item", 		["image"] = "harness.png", 		["unique"] = false, 		["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = "Racing Harness so no matter what you stay in the car"},
      
     ["harness_remover"] 	= {["name"] = "harness_remover",        ["label"] = "Harness Removing Tool",	 	["weight"] = 1000, 		["type"] = "item", 		["image"] = "harness_removetool.png", 		["unique"] = false, 		["useable"] = true, 	["shouldClose"] = true,   	["combinable"] = nil,   ["description"] = "To be able to remove harness from owned vehicles"},
+```
 Add the following code to your server.cfg/resouces.cfg
 ```
 ensure car-harness
