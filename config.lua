@@ -1,6 +1,6 @@
 Config = {}
 
---// Progressbars \\--
+--// Equiping Harness \\--
 Config.PuttingOn = 1000
 Config.TakingOff = 1000
 
